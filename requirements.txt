@@ -10,5 +10,8 @@ dash>=2.14.0
 dash-bootstrap-components>=1.5.0
 plotly>=5.18.0
 
+# Server (OBLIGATORIO en Render)
+gunicorn>=21.2.0
+
 # Optional: for running in Jupyter
 # jupyter-dash>=0.7.2
