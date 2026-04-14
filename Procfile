@@ -1,1 +1,1 @@
-web: gunicorn scripts.chamber_dashboard:server
+web: gunicorn script.chamber_dashboard:server
