@@ -41,7 +41,7 @@ import dash_bootstrap_components as dbc
 
 # File path configuration
 # The dashboard looks for the data file in the same directory by default
-DATA_FILE = "data-cac-12-02.xlsx"
+DATA_FILE = "cleaned_dataset.xlsx"
 # Alternative: use cleaned_dataset.xlsx if it exists
 CLEANED_DATA_FILE = "cleaned_dataset.xlsx"
 
